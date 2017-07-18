@@ -1,0 +1,16 @@
+﻿body {
+}
+
+h1{
+font-family:'Baskerville Old Face';
+font-style:italic;
+font-weight:bold;
+color:deeppink;
+}
+
+.w3-theme {
+    background-image: url('6-cleveland-ohio-skyline-michael-tompsett.jpg');
+    background-size:contain;
+    font-weight: bold;
+    color:deeppink;
+}
